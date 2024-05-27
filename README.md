@@ -46,11 +46,6 @@ Welcome to BuildOS! This Docker image provides a comprehensive environment for b
 - lld
 - zsh (with Oh My Zsh and gnzh theme)
 
-## Custom Features
-
-- Oh My Zsh with the `gnzh` theme for an enhanced terminal experience.
-- Custom welcome message upon login.
-
 ## Installation and Usage
 
 Follow these steps to install and run the BuildOS Docker image.
